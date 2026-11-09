@@ -9,7 +9,7 @@ public class DatabaseConnection {
 
         String url = "jdbc:postgresql://localhost:5432/student_management";
         String username = "postgres";
-        String password = "your_password";
+        String password = "mukankusi";
 
         Connection connection = null;
 
